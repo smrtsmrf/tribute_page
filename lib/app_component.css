@@ -1,0 +1,29 @@
+:host {
+    /* This is equivalent of the 'body' selector of a page. */
+  height: 98vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  text-align: center;
+}
+
+#title {
+  font-size: -webkit-xxx-large;
+}
+
+figure {
+  margin: 0px;
+}
+#image {
+  max-width: 100%;
+  display: block;
+}
+
+ul {
+  text-align: left;
+}
+
+p {
+  font-size: x-large;
+  margin: 0px;
+}
